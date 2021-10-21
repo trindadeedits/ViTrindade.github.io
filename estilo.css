@@ -1,0 +1,48 @@
+/* Meu arquivo CSS */
+
+h1 {
+	color: blue;
+	font-size: 2em;
+	font-style: italic;
+	padding-bottom: 15px;
+	border: 10px dotted #4287f5; 
+	background-color: #18f040;
+	text-align: center;
+}
+
+body {
+	font-size: 2em;
+	background-color: cyan;
+	color: black;
+	font-family: 'Permanent Marker', cursive;
+}
+
+ul{
+	padding-right: 50px;
+	list-style-position: inside; 
+	text-align: right;
+}
+
+li{
+	font-size:0.75em;
+}
+	
+a:link {
+	text-decoration: none;
+	color: green;
+}
+
+a:visited {
+	text-decoration: none;
+	color: green;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: blue;
+}
+
+a:active {
+	text-decoration: underline;
+	color: red;
+}
