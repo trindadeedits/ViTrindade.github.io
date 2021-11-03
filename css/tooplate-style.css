@@ -161,6 +161,7 @@ button:focus {
 }
 .tm-slider-img {
   width: 100%;
+  object-fit: cover;
 }
 
 .tm-slider-img,
